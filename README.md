@@ -1,6 +1,6 @@
 ### Hi, I'm Kevin Wang
 
-Engineering Physics undergraduate at UBC. I build ultrafast optical instruments, mostly slow optical centrifuges for controlling molecular rotation, in Valery Milner's group.
+Engineering Physics undergraduate at UBC. I build ultrafast optical instruments, mostly slow optical centrifuges for controlling molecular rotation, in Valery Milner's group. I'm also building a hierarchical reinforcement-learning system that lets a quadruped robot open doors for wheelchair users with my capstone team.
 
 **Research interests:** photonics, ultrafast optics, optical computing, inverse design, and machine learning for physical instruments.
 
